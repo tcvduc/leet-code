@@ -1,0 +1,19 @@
+Thuật Ngữ
+Các thuật ngữ code trong tiếng anh
+
+1. Indices
+-----0 1 2 3 4
+a = [1,2,3,4,5]
+
+=> Indices = -----0 1 2 3 4
+=> Indices = 0
+=> Indices = 1
+=> Indices = 2
+=> Indices = 3
+=> Indices = 4
+
+
+
+
+
+
